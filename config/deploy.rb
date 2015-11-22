@@ -1,7 +1,7 @@
 # config valid only for current version of Capistrano
 lock '3.4.0'
 
-set :repo_url, 'git@bitbucket.org:swarzynski/zastepstwa1.git'
+set :repo_url, 'git@github.com:swarzynski/capistrano-example-app.git'
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
