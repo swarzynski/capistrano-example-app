@@ -8,7 +8,7 @@ set :deploy_to, '/home/deploy/webapps/myapp1'
 
 # server 'example.com', user: 'deploy', roles: %w{app db web}, my_property: :my_value
 # server 'example.com', user: 'deploy', roles: %w{app web}, other_property: :other_value
-server '192.168.1.97', user: 'deploy', roles: %w{app web}
+server '192.168.1.8', user: 'deploy', roles: %w{app web}
 
 
 
